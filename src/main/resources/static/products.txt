@@ -1,0 +1,3 @@
+0, Pierwszy produkt, 24.99
+1, Drugi produkt, 64.99
+2, Trzeci produkt, 74.99
